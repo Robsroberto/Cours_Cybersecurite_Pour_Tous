@@ -1,0 +1,68 @@
+{
+  "slug": "cybersecurite-pour-tous",
+  "title": "Protège tes données : CyberSécurité pour tous",
+  "description": "Apprends les fondamentaux de la cybersécurité pour protéger tes données personnelles et professionnelles contre les menaces en ligne. Ce cours est conçu pour tous, sans prérequis en informatique.",
+  "level": "debutant",
+  "icon": "🛡️",
+  "tags": [
+    "analyse",
+    "python",
+    "sql",
+    "backend",
+    "web",
+    "securite"
+  ],
+  "price": 5000,
+  "free_chapters": 2,
+  "version": "1.0.0",
+  "chapters": [
+    {
+      "file": "01-introduction.md",
+      "title": "Introduction à la Cybersécurité : Pourquoi c’est urgent pour toi"
+    },
+    {
+      "file": "02-concepts-de-base.md",
+      "title": "Les Bases de la Sécurité Numérique : Vocabulaire et Principes Clés"
+    },
+    {
+      "file": "03-protection-des-mots-de-passe.md",
+      "title": "Maîtrise la Gestion des Mots de Passe : Ton Premier Bouclier"
+    },
+    {
+      "file": "04-securite-des-appareils.md",
+      "title": "Sécurise Tes Appareils : Téléphone, Ordinateur et Tablettes"
+    },
+    {
+      "file": "05-navigation-securisee.md",
+      "title": "Navigue en Toute Sécurité : Internet, Wi-Fi et Réseaux Publics"
+    },
+    {
+      "file": "06-defense-contre-le-phishing.md",
+      "title": "Reconnais et Bloque le Phishing : L’Arnaque la Plus Courante"
+    },
+    {
+      "file": "07-securite-des-reseaux-sociaux.md",
+      "title": "Maîtrise ta Présence en Ligne : Sécurité sur les Réseaux Sociaux"
+    },
+    {
+      "file": "08-cybersecurite-professionnelle.md",
+      "title": "Cybersécurité au Travail : Protéger les Données de ton Entreprise"
+    },
+    {
+      "file": "09-backups-et-recuperation.md",
+      "title": "Sauvegarde Tes Données : Ne Perds Jamais l’Essentiel"
+    },
+    {
+      "file": "10-introduction-au-chiffrement.md",
+      "title": "Le Chiffrement Expliqué Simplement : Rends Tes Données Illisibles aux Pirates"
+    },
+    {
+      "file": "11-projet-final.md",
+      "title": "Projet Final : Audit Complet de Ta Sécurité Numérique"
+    },
+    {
+      "file": "12-maintenance-et-vigilance.md",
+      "title": "Reste Vigilant : Entretien et Mises à Jour de Ta Sécurité"
+    }
+  ]
+}
